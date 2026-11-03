@@ -1,0 +1,23 @@
+{
+  "name": "genpark-personal-agent-ocular-choroidal-vascularity-index-cvi-oct-skill",
+  "version": "1.0.0",
+  "description": "Calculates EDI/SS-OCT Choroidal Vascularity Index (CVI = LA/TCA * 100), Subfoveal Choroidal Thickness (SFCT), and pachychoroid vs choroidal atrophy classification for personal retinal microvascular wellness.",
+  "author": "AlphaPark",
+  "license": "Apache-2.0",
+  "keywords": [
+    "personal-agent",
+    "ai-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "python",
+    "zero-dependency",
+    "wellness",
+    "productivity",
+    "production-ready"
+  ],
+  "entrypoint": "client.py",
+  "mcp_server": "mcp_server.py"
+}
